@@ -2,7 +2,7 @@
 # Real-Time Vehicle Detection and Analysis with YOLOv8
 
 This project implements a real-time vehicle detection, counting, and analysis system using YOLOv8. It processes video inputs to detect vehicles, counts them, and visualizes the results with a bar plot.
-
+![Barcode Detection Example](image.png)
 ## Features
 
 - **Vehicle Detection:** Identifies and annotates vehicles in video frames.
